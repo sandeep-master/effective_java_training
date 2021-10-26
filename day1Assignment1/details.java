@@ -1,8 +1,7 @@
-
 class details {
     private int AccountNumber=1;
     private String name;
-    private String password;
+    private String password="123";
     private float Balance=2500;
     private float Rate;
     public details() {
